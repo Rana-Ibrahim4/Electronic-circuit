@@ -72,6 +72,10 @@ The goal is to create a virtual prototype of the electronic circuit and servo mo
 ![Powerful Blorr-Snaget (1)](https://github.com/Rana-Ibrahim4/Electronic-circuit/assets/173770938/6ef54ac6-621a-4ec3-b9c8-0024c135c1fe)
 
 
+
+![b1b1eba3-6555-41e6-a943-31a1123f520c](https://github.com/Rana-Ibrahim4/Electronic-circuit/assets/173770938/5c0ac1a3-1138-4ee1-9611-8500465190b9)
+
+
 ![941b0737-85c2-4f1a-94e8-ff044d4e7a9b](https://github.com/Rana-Ibrahim4/Electronic-circuit/assets/173770938/c25c9980-dd5e-44a4-b52d-0f10a5a659b2)
 
 #### Code of Ardiuno IDE
